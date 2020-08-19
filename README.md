@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-**⚡ Fun fact: I only update GitHub only when the project (atleast the basic version of it) is over...So don't judge me¯\\_(ツ)_/¯**
+**⚡ Fun fact: I only update GitHub only when the project (atleast the basic version of it) is over...So don't judge me o_o**
