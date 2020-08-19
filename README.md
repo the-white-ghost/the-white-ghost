@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
 <div align="center">
+
+**⚡ Fun fact: I only update GitHub only when the project (atleast the basic version of it) is over...So don't judge me¯\_(ツ)_/¯**
