@@ -1,4 +1,3 @@
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work]()
 
 <!--
 **the-white-ghost/the-white-ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
